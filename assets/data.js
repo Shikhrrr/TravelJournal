@@ -1,7 +1,7 @@
 export default [
     {
         id: 1,
-        imageUrl: '../assets/locationPics/mount-fuji.avif',
+        imageUrl: '..tree/main/assets/locationPics/mount-fuji.avif',
         country: 'Japan',
         mapsLink: 'https://maps.google.com/?q=Mount+Fuji',
         placeName: 'Mount Fuji',
