@@ -10,7 +10,7 @@ export default [
     },
     {
         id: 2,
-        imageUrl: '../assets/locationPics/eiffel_tower.jpg',
+        imageUrl: './locationPics/eiffel_tower.jpg',
         country: 'France',
         mapsLink: 'https://maps.google.com/?q=Eiffel+Tower',
         placeName: 'Eiffel Tower',
