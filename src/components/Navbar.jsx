@@ -3,6 +3,7 @@
 
 import React from 'react'
 // import listData from '../../assets/listData.js'
+import icon from '../../assets/globe-64.png/'
 
 export default function Navbar() {
     // const items = listData.map(elem => {
@@ -15,7 +16,7 @@ export default function Navbar() {
 
     return (
         <nav className="navbar">
-            <img src='../assets/globe-64.png' className='globe-icon'></img>
+            <img src={icon} className='globe-icon'></img>
             <h4 className='nav--title'>my travel journal</h4>
             {/* <div className="list">
                 <ul>
