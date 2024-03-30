@@ -1,7 +1,7 @@
 export default [
     {
         id: 1,
-        imageUrl: '..tree/main/assets/locationPics/mount-fuji.avif',
+        imageUrl: '/TravelJournal.github.io/public/assets/locationPics/mount-fuji.avif',
         country: 'Japan',
         mapsLink: 'https://maps.google.com/?q=Mount+Fuji',
         placeName: 'Mount Fuji',
@@ -10,7 +10,7 @@ export default [
     },
     {
         id: 2,
-        imageUrl: './locationPics/eiffel_tower.jpg',
+        imageUrl: '/TravelJournal.github.io/public/assets/locationPics/eiffel_tower.jpg',
         country: 'France',
         mapsLink: 'https://maps.google.com/?q=Eiffel+Tower',
         placeName: 'Eiffel Tower',
@@ -19,7 +19,7 @@ export default [
     },
     {
         id: 3,
-        imageUrl: '../assets/locationPics/colosseum.jpeg',
+        imageUrl: '/TravelJournal.github.io/public/assets/locationPics/colosseum.jpeg',
         country: 'Italy',
         mapsLink: 'https://maps.google.com/?q=Colosseum',
         placeName: 'Colosseum',
@@ -28,7 +28,7 @@ export default [
     },
     {
         id: 4,
-        imageUrl: '../assets/locationPics/gbf.jpeg',
+        imageUrl: '/TravelJournal.github.io/public/assets/locationPics/gbf.jpeg',
         country: 'Australia',
         mapsLink: 'https://maps.google.com/?q=Great+Barrier+Reef',
         placeName: 'Great Barrier Reef',

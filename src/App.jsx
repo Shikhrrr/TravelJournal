@@ -1,6 +1,6 @@
 import React from 'react'
 import Navbar from './components/Navbar.jsx'
-import data from '../assets/data.js'
+import data from '../data.js'
 import Card from './components/Card.jsx'
 
 export default function App() {
