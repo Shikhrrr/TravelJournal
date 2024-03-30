@@ -3,7 +3,7 @@
 
 import React from 'react'
 // import listData from '../../assets/listData.js'
-import icon from '/TravelJournal.github.io/public/assets/globe-64.png/'
+import icon from '/assets/globe-64.png'
 
 export default function Navbar() {
     // const items = listData.map(elem => {
