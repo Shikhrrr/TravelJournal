@@ -1,5 +1,5 @@
 import React from 'react'
-import icon from '/TravelJournal.github.io/public/assets/location-icon.png'
+import icon from '/assets/location-icon.png'
 
 export default function Card(props) {
     return (
